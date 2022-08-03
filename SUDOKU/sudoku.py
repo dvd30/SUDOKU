@@ -4,7 +4,6 @@ import random
 
 # initialisation commands
 pygame.init()
-pygame.font.init()
 height = width = 450
 cell_size = 50
 dimension = height // cell_size
